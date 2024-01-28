@@ -1,0 +1,15 @@
+C:\Users\casse\Desktop\EMS\EMS\bin\Debug\EMS.exe.config
+C:\Users\casse\Desktop\EMS\EMS\bin\Debug\EMS.exe
+C:\Users\casse\Desktop\EMS\EMS\bin\Debug\EMS.pdb
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.Register_Form.resources
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.Properties.Resources.resources
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.exe
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.pdb
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.Login.resources
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.Dashboard.resources
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.Employee.resources
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.Mainform.resources
+C:\Users\casse\Desktop\EMS\EMS\obj\Debug\EMS.Salary.resources
